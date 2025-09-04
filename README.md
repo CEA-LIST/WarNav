@@ -33,8 +33,6 @@ Annotated classes of interest are the following:
 
 ## Licence
 
-To be completed.
-
 Data annotations are under Creative Commons Attribution Non Commercial 4.0 license.
 
 
