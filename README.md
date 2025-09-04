@@ -40,5 +40,3 @@ Data annotations are under Creative Commons Attribution Non Commercial 4.0 licen
 ## Citation
 
 Associated paper can be read here (to be filled later).
-
-References to be completed.
