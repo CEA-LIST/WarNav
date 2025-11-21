@@ -39,4 +39,17 @@ Data annotations are under Creative Commons Attribution Non Commercial 4.0 licen
 
 ## Citation
 
-Associated paper can be read here (to be filled later).
+Please cite our [associated paper](https://arxiv.org/abs/2511.15429):
+
+Marc-Emmanuel Coupvent des Graviers, Hejer Ammar, Christophe Guettier, Yann Dumortier, Romaric Audigier, "WarNav: An Autonomous Driving Benchmark for Segmentation of Navigable Zones in War Scenes", in *[Proceedings of the Conference on Artificial Intelligence for Defence](https://caid-conference.eu/actes/) (CAID'25)*, 18-19 November, 2025, Rennes, France.
+
+```BibTeX
+@inproceedings{WarNav,
+  title     = {{WarNav: An Autonomous Driving Benchmark for Segmentation of Navigable Zones in War Scenes}},
+  author    = {Marc-Emmanuel Coupvent des Graviers and Hejer Ammar and Christophe Guettier and Yann Dumortier and Romaric Audigier},
+  booktitle = {Proceedings of the Conference on Artificial Intelligence for Defence (CAID'25)},
+  month     = {November},
+  year      = {2025},
+  address   = {Rennes, France}
+}
+```
